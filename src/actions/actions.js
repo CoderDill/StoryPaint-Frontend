@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { GET_USER } from './types';
 
-const BASE_URL = process.env.REACT_APP_BASE_URL || 'http://localhost:9000';
+const BASE_URL = process.env.REACT_APP_BASE_URL || 'http://localhost:3001';
 
 function getUser(username, id) {
 	return {
@@ -69,4 +69,3 @@ export async function deleteColoringFromAPI(id){
 	})
 	return response
 }
-
