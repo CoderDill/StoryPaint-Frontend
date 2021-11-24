@@ -27,21 +27,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jquatjr/Mintbean">
+  <a href="https://github.com/coderdill/Mintbean">
     <img src="./images/StoryPaint2.png" alt="Logo" width="200">
   </a>
 
   <p align="center">
     StoryPaint is a coloring book application.
     <br />
-    <a href="https://github.com/jquatjr/Mintbean"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/coderdill/Mintbean"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jquatjr/Mintbean">View Demo</a>
+    <a href="https://github.com/coderdill/Mintbean">View Demo</a>
     ·
-    <a href="https://github.com/jquatjr/Mintbean/issues">Report Bug</a>
+    <a href="https://github.com/coderdill/Mintbean/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jquatjr/Mintbean/issues">Request Feature</a>
+    <a href="https://github.com/coderdill/Mintbean/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jquatjr`, `Mintbean`, `JQuatJr`, `jquatjr`, `johnqtd`, `jquatjr@gmail.com`, `StoryPaint`, `StoryPaint is a coloring book application.`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `coderdill`, `Mintbean`, `coderdill`, `coderdill`, `johnqtd`, `coderdill@gmail.com`, `StoryPaint`, `StoryPaint is a coloring book application.`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jquatjr/Mintbean.git
+   git clone https://github.com/coderdill/Mintbean.git
    ```
 2. Install NPM packages
    ```sh
@@ -183,9 +183,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-John Quattrocchi Jr - [@jquatjr](https://twitter.com/johnqtd) - jquatjr@gmail.com
+Matthew Dillon - [@coderdill](https://twitter.com/coderdill) - mddillon47@yahoo.com
 
-Project Link: [https://github.com/jquatjr/Mintbean](https://github.com/jquatjr/Mintbean)
+Project Link: [https://github.com/coderdill/Mintbean](https://github.com/coderdill/Mintbean)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,23 +195,23 @@ Project Link: [https://github.com/jquatjr/Mintbean](https://github.com/jquatjr/M
 ## Acknowledgments
 
 * [William Sanders](https://www.linkedin.com/in/williamsanders81/)
-* [Matthew Dillon](https://www.linkedin.com/in/coderdill/)
+* [John Quattrocchi Jr](https://www.linkedin.com/in/jquatjr/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jquatjr/Mintbean.svg?style=for-the-badge
-[contributors-url]: https://github.com/jquatjr/Mintbean/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jquatjr/Mintbean.svg?style=for-the-badge
-[forks-url]: https://github.com/jquatjr/Mintbean/network/members
-[stars-shield]: https://img.shields.io/github/stars/jquatjr/Mintbean.svg?style=for-the-badge
-[stars-url]: https://github.com/jquatjr/Mintbean/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jquatjr/Mintbean.svg?style=for-the-badge
-[issues-url]: https://github.com/jquatjr/Mintbean/issues
-[license-shield]: https://img.shields.io/github/license/jquatjr/Mintbean.svg?style=for-the-badge
-[license-url]: https://github.com/jquatjr/Mintbean/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/coderdill/Mintbean.svg?style=for-the-badge
+[contributors-url]: https://github.com/coderdill/Mintbean/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coderdill/Mintbean.svg?style=for-the-badge
+[forks-url]: https://github.com/coderdill/Mintbean/network/members
+[stars-shield]: https://img.shields.io/github/stars/coderdill/Mintbean.svg?style=for-the-badge
+[stars-url]: https://github.com/coderdill/Mintbean/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coderdill/Mintbean.svg?style=for-the-badge
+[issues-url]: https://github.com/coderdill/Mintbean/issues
+[license-shield]: https://img.shields.io/github/license/coderdill/Mintbean.svg?style=for-the-badge
+[license-url]: https://github.com/coderdill/Mintbean/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jquatjr
+[linkedin-url]: https://linkedin.com/in/coderdill
 [product-screenshot]: images/screenshot.png
