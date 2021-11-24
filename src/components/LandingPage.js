@@ -76,10 +76,10 @@ export default function LandingPage() {
                   <p class="card-text">
                     Matthew is a life long computer lover with a professional background in the
                     casino
-                    industry, where he worked in management for 10 years.His passion now is in
+                    industry, where he worked in management for 10 years. His passion now is in
                     coding,
                     where he's
-                    looking for his first software developer role.Matthew continues to improve his
+                    looking for his first software developer role. Matthew continues to improve his
                     skills and loves
                     the endless learning that programming provides.
                   </p>
