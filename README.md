@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/coderdill/Mintbean.git
+   git clone https://github.com/coderdill/StoryPaint-Frontend.git
    ```
 2. Install NPM packages
    ```sh
@@ -124,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Start server & client
    ```sh
-   npm run server-with-client
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -185,7 +185,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Matthew Dillon - [@coderdill](https://twitter.com/coderdill) - mddillon47@yahoo.com
 
-Project Link: [https://github.com/coderdill/Mintbean](https://github.com/coderdill/Mintbean)
+Project Link: [https://story-paint-mintbean.surge.sh](https://story-paint-mintbean.surge.sh/)
+
+Project Repo: [https://github.com/coderdill/Mintbean](https://github.com/coderdill/Mintbean)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
