@@ -12,7 +12,7 @@ import Crayons from "../assets/LandingPage/Crayons.jpg";
 import StoryPaint from "../assets/LandingPage/StoryPaint2.png";
 import PaintExample from "../assets/LandingPage/StoryPaintExample.png";
 import Elephant from "../assets/LandingPage/ElephantExample.png";
-import Peppa from "../assets/LandingPage/PeppaPigExample.png";
+import Peppa from "../assets/LandingPage/peppa_muddy.png";
 export default function LandingPage() {
   const navigate = useNavigate();
 
