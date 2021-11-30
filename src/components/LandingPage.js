@@ -183,12 +183,12 @@ export default function LandingPage() {
                 <div class="card-footer bg-dark bg-opacity-25">
                   <span>
                     <a
-                      href="https://www.linkedin.com/in/coderdill/"
+                      href="https://www.linkedin.com/in/jquatjr/"
                       target="_blank"
                     >
                       <i class="fab fa-linkedin fa-2x me-2"></i>
                     </a>
-                    <a href="https://github.com/coderdill" target="_blank">
+                    <a href="https://github.com/jquatjr" target="_blank">
                       <i class="fab fa-github fa-2x me-2"></i>
                     </a>
                     <a

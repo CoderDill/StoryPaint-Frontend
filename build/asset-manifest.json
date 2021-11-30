@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a633978b.chunk.css",
-    "main.js": "/static/js/main.d34c5b27.chunk.js",
-    "main.js.map": "/static/js/main.d34c5b27.chunk.js.map",
+    "main.js": "/static/js/main.d973baba.chunk.js",
+    "main.js.map": "/static/js/main.d973baba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.879ec59a.js",
     "runtime-main.js.map": "/static/js/runtime-main.879ec59a.js.map",
     "static/css/2.58a45539.chunk.css": "/static/css/2.58a45539.chunk.css",
@@ -20,7 +20,6 @@
     "static/media/ElephantExample.5791def4.png": "/static/media/ElephantExample.5791def4.png",
     "static/media/JohnQuattrocchi.5a6bb894.png": "/static/media/JohnQuattrocchi.5a6bb894.png",
     "static/media/MattDillon.45759438.jpg": "/static/media/MattDillon.45759438.jpg",
-    "static/media/PeppaPigExample.f21f7cff.png": "/static/media/PeppaPigExample.f21f7cff.png",
     "static/media/StoryPaint2.693eb22e.png": "/static/media/StoryPaint2.693eb22e.png",
     "static/media/StoryPaintExample.060d2c1e.png": "/static/media/StoryPaintExample.060d2c1e.png",
     "static/media/WillSanders.7c4324b2.jpg": "/static/media/WillSanders.7c4324b2.jpg",
@@ -34,6 +33,7 @@
     "static/media/page1.svg": "/static/media/page1.4763f0c6.svg",
     "static/media/page2.svg": "/static/media/page2.7bc8792f.svg",
     "static/media/peppa_cover.svg": "/static/media/peppa_cover.9ca0fa16.svg",
+    "static/media/peppa_muddy.7d5da684.png": "/static/media/peppa_muddy.7d5da684.png",
     "static/media/peppa_page1.svg": "/static/media/peppa_page1.88494774.svg",
     "static/media/peppa_page2.svg": "/static/media/peppa_page2.429ec0be.svg",
     "static/media/peppa_page3.svg": "/static/media/peppa_page3.3fa0ad66.svg",
@@ -48,6 +48,6 @@
     "static/css/2.58a45539.chunk.css",
     "static/js/2.460d6c26.chunk.js",
     "static/css/main.a633978b.chunk.css",
-    "static/js/main.d34c5b27.chunk.js"
+    "static/js/main.d973baba.chunk.js"
   ]
 }
