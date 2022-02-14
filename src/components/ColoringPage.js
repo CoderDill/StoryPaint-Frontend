@@ -4,6 +4,7 @@ import { CirclePicker } from 'react-color';
 import '../styles/ColoringPage.css';
 import DemoBook from './DemoBook';
 import PictureSelect from './PictureSelect';
+
 export default function ColoringPage({ notify }) {
 	const [ currentColor, setCurrentColor ] = useState('white');
 	const [ book, setBook ] = useState('Peppa');

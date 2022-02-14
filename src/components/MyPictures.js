@@ -8,6 +8,7 @@ import {
 import { useNavigate } from "react-router-dom";
 import { Box, Button, Tooltip } from "@mui/material";
 import * as saveSvgAsPng from "save-svg-as-png";
+
 export default function MyPictures() {
   const userId = useSelector((store) => store.userReducer.id);
   const svgs = useRef(null);

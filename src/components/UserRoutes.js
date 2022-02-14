@@ -2,6 +2,7 @@ import {Routes, Route} from 'react-router-dom'
 import ColoringPage from './ColoringPage'
 import LandingPage from './LandingPage'
 import MyPicturesContainer from './MyPicturesContainer'
+
 export default function UserRoutes({notify}){
     return (
         <Routes>
