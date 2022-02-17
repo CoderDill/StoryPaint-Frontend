@@ -4,6 +4,7 @@ import { useDispatch } from "react-redux";
 import * as saveSvgAsPng from "save-svg-as-png";
 import "external-svg-loader";
 import "../styles/SVG.css";
+
 const goodnightMoon_blank = require("../assets/images/GoonightMoon/goodnightMoon_blank.svg");
 const goodnightMoon_cover = require("../assets/images/GoonightMoon/goodnightMoon_cover.svg");
 const goodnightMoon_page1 = require("../assets/images/GoonightMoon/goodnightMoon_page1.svg");
@@ -14,6 +15,7 @@ const goodnightMoon = {
   goodnightMoon_page1: goodnightMoon_page1,
   goodnightMoon_page2: goodnightMoon_page2,
 };
+
 const SVG = ({ name, currentColor, bookName, text, pageClass }) => {
   const dispatch = useDispatch();
   const svgRef = useRef(null);
@@ -45,6 +47,7 @@ const SVG = ({ name, currentColor, bookName, text, pageClass }) => {
     };
     importIcon();
   }, [bookName, name]);
+
   const handleClick = (e) => {
     if (e.target.style.cssText.includes("fill: rgb(0, 0, 0);")) return;
     e.target.style.fill = currentColor;

@@ -15,6 +15,7 @@ export default function MyPictures() {
   const navigate = useNavigate();
   const [isLoading, setLoading] = useState(true);
   const [colorings, setColorings] = useState(null);
+
   useEffect(() => {
     const getColorings = async () => {
       const response = await getUserColoringsFromAPI(userId);
@@ -41,12 +42,14 @@ export default function MyPictures() {
     const name = svg.dataset.name;
     saveSvgAsPng.saveSvg(svg, name);
   };
+
   const handleDelete = async (e) => {
     const res = await deleteColoringFromAPI(e.target.dataset.id);
 
     setLoading(true);
     setLoading(false);
   };
+  
   return (
     <Box className="MyPictures">
       {svgs.current

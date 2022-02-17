@@ -50,7 +50,6 @@ export async function postColoringsToAPI(name, image, userId) {
 			}
 		});
 		return response.data
-	
 }
 
 export async function getUserColoringsFromAPI(user_id){
